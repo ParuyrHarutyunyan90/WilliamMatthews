@@ -1,0 +1,129 @@
+.bodyStyle {
+    background-image: url('../img/b_body.jpg');
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.divCoffee {
+    background-image: url("../img/b_coffee.jpg");
+    width: 69.8%;
+    margin: auto;
+}
+
+.menu li {
+
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 40px;
+
+}
+
+.menu {
+    margin-left: 70px;
+
+}
+
+.logo {
+    margin-left: 150px;
+    border-bottom: 1px dotted;
+    width: 69%;
+    padding-bottom: 2%;
+}
+
+.divPicture {
+    background-image: url('../img/b_thumbs.png');
+    width: 916px;
+    height: 305px;
+    margin: auto;
+}
+
+.divPicture img {
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: auto;
+}
+
+.arrow {
+    margin-bottom: 100px
+
+}
+
+.content {
+    margin-left: 110px;
+}
+
+.content li {
+    width: 240px;
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 50px;
+    float: left;
+}
+
+.content li img {
+    float: bottom;
+}
+
+.date {
+    background-image: url('../img/b_date.png');
+    color: darkolivegreen;
+    padding-left: 15px;
+    padding-top: 4px;
+    width: 95px;
+}
+
+.color {
+    color: darkolivegreen;
+}
+
+.line {
+    margin-top: -4%;
+    margin-left: -5%;
+}
+.button li {
+    list-style-type: none;
+    display: inline-block;
+}
+.button {
+    margin-left: 9%;
+}
+.font {
+    font-size: 11px;
+    color: rgb(236, 109, 9);
+}
+.icon {
+    float: right;
+    margin-top: -3%;
+    margin-right: 17%;
+}
+.about {
+
+    margin-left: 10%;
+
+}
+.aboutDiv {
+    margin-left: 12%;
+    width: 20%;
+}
+.display {
+    display: flex;
+    margin-left: 20px;
+}
+.divMargin {
+    margin-left: 5%;
+    width: 44%;
+}
+.folioDiv {
+    margin-left: 12%;
+    width: 25%;
+    border-right: 1px dotted;
+}
+
+.pStyle {
+    margin-top: -5%;
+    margin-left: 10%
+}
+.textArrow {
+    border-bottom: 1px;
+    margin-bottom: -1%;
+}
